@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T03:26:18.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.6.11" etag="UclFoh84Lz0WlUJ2SVqb" type="github"><diagram id="ohPG2v6w0JWkh78kI1mg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T03:26:58.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mCfSIJM3GaMwms5ZT4xe" version="14.6.11" type="github">
+  <diagram id="ohPG2v6w0JWkh78kI1mg" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-1" value="刊物已添加" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-2" value="写手已添加" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-3" value="成本已添加" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-4" value="论文已购买" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-5" value="订单已审核" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-6" value="论文大纲&lt;br&gt;已选择" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="940" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-7" value="论文已拟题" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-8" value="写作已安排" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-9" value="论文已发表" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-10" value="论文查重&lt;br&gt;已检测" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-11" value="费用已完成" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-12" value="费用已审核" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-13" value="主管已审核" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-14" value="经理已审核" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HKTa83WFG0S2E-OM7c_O-15" value="财务已审核" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d6b656;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
